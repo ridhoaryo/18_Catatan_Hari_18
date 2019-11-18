@@ -66,7 +66,7 @@ for r in range(len(food_list)):
 ```
 Di sini saya mendeklarasikan nama filenya berdasarkan nama makanan dan kota. Kemudian saya tulis satu per satu ke dalam setial cell dengan menggunakan double for loops.
 
-# 6. Don't forget to save
+## 6. Don't forget to save
 ```
 data_xlsx.close()
 ```
