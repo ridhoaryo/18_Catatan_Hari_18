@@ -1,7 +1,7 @@
 # Quiz Rest API: Get restaurant data for certain food from zomato.com API and save it into .xlsx
 
 Halo, Assalamu'alaykum..
-Hari ini saya akan share tentang quiz dari kelas tadi siang di Purwadhika. Judul quiznya seperti di atas. Kita diminta untuk mengakses API dari zapatos, dan mencari makanan berdasarkan kota yang kita inginkan. Kemudian kita ambil beberapa data (di sini saya mengambil nama restoran, alamat, sajian dan rating) lalu menyimpannya ke dalam bentuk .xlsx.
+Hari ini saya akan share tentang quiz dari kelas tadi siang di Purwadhika. Judul quiznya seperti di atas. Kita diminta untuk mengakses API dari Zomato.com, dan mencari makanan berdasarkan kota yang kita inginkan. Kemudian kita ambil beberapa data (di sini saya mengambil nama restoran, alamat, sajian dan rating) lalu menyimpannya ke dalam bentuk .xlsx.
 
 File coding bisa diakses di:
 - **03_rest_api_search_food.py**
